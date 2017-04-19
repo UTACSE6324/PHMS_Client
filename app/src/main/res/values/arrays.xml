@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_question">
+        <item>What was your childhood nickname?</item>
+        <item>What is your favorite movie?</item>
+        <item>In what town was your first job?</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="units">
+        <item>pills</item>
+        <item>cc</item>
+        <item>ml</item>
+        <item>gr</item>
+        <item>mg</item>
+        <item>drops</item>
+        <item>pieces</item>
+        <item>puffs</item>
+        <item>units</item>
+        <item>teaspoon</item>
+        <item>tablespoon</item>
+        <item>patch</item>
+        <item>mcg</item>
+        <item>iu</item>
+        <item>meq</item>
+        <item>catron</item>
+        <item>spray</item>
+    </string-array>
+
+    <string-array name="quantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>

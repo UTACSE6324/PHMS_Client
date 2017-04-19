@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_cubic.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\anim\\decelerate_cubic.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_cubic.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\anim\\decelerate_cubic.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

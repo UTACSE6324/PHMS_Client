@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_circle_back.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\shape_circle_back.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_07.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\avatar_07.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_10.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\avatar_10.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droppy_separator_background.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\0e8497a4dde37c4e1be8dd8742be4e5fd80dbbe2\\output\\res\\drawable\\droppy_separator_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_08.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\avatar_08.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_08.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\avatar_08.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_07.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\avatar_07.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tack_save_button_32_white.png",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\031c0e80a165e534d62464dfd09deb8abf12cf29\\output\\res\\drawable\\tack_save_button_32_white.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droppy_list_item_pressed.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\0e8497a4dde37c4e1be8dd8742be4e5fd80dbbe2\\output\\res\\drawable\\droppy_list_item_pressed.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doctor.jpg",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\doctor.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tack_save_button_32_blue.png",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\031c0e80a165e534d62464dfd09deb8abf12cf29\\output\\res\\drawable\\tack_save_button_32_blue.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doctor.jpg",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\doctor.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tack_save_button_32_white.png",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\031c0e80a165e534d62464dfd09deb8abf12cf29\\output\\res\\drawable\\tack_save_button_32_white.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_09.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\avatar_09.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_06.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\avatar_06.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droppy_list_item_pressed.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\0e8497a4dde37c4e1be8dd8742be4e5fd80dbbe2\\output\\res\\drawable\\droppy_list_item_pressed.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_05.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\avatar_05.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lunch.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\lunch.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_03.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\avatar_03.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_09.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\avatar_09.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bb_bottom_bar_top_shadow.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\511fc114e8480329fa21d0c6e338248f44edcf89\\output\\res\\drawable\\bb_bottom_bar_top_shadow.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snack.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\snack.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droppy_list_item_normal.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\0e8497a4dde37c4e1be8dd8742be4e5fd80dbbe2\\output\\res\\drawable\\droppy_list_item_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_06.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\avatar_06.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tack_save_button_32_blue.png",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\031c0e80a165e534d62464dfd09deb8abf12cf29\\output\\res\\drawable\\tack_save_button_32_blue.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_02.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\avatar_02.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\delete_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_02.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\avatar_02.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fade_green.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\fade_green.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lunch.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\lunch.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_01.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\avatar_01.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_01.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\avatar_01.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_circle_back.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\shape_circle_back.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_03.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\avatar_03.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bb_bottom_bar_top_shadow.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\511fc114e8480329fa21d0c6e338248f44edcf89\\output\\res\\drawable\\bb_bottom_bar_top_shadow.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fade_green.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\fade_green.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droppy_list_item_normal.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\0e8497a4dde37c4e1be8dd8742be4e5fd80dbbe2\\output\\res\\drawable\\droppy_list_item_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\breakfast.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\breakfast.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\breakfast.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\breakfast.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_05.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\avatar_05.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_04.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\avatar_04.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fade_gray.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\fade_gray.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fade_gray.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\fade_gray.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_04.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\avatar_04.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dinner.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\dinner.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snack.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\snack.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dinner.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\dinner.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droppy_separator_background.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\0e8497a4dde37c4e1be8dd8742be4e5fd80dbbe2\\output\\res\\drawable\\droppy_separator_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_10.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\avatar_10.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\drawable\\delete_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\399ad56ecac912297155537ee17c9ba13dadad9f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    }
+]

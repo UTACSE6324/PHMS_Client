@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\7227b80691526d095206a8139a416a266e303d93\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

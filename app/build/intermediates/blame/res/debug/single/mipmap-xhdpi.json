@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_redo.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_redo.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_delete_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_local_dining_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_local_dining_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_settings_white_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_insert_comment_accent_18dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_insert_comment_accent_18dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_more_vert_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_more_vert_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_strikethrough.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_strikethrough.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_strikethrough.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_strikethrough.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\back.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_bullet.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_bullet.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_border_color_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_border_color_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_notifications_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_keyboard_arrow_left_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_keyboard_arrow_left_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_bold.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_bold.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_add_white_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_food_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_food_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_italic.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_italic.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_add_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_insert_comment_accent_18dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_insert_comment_accent_18dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_settings_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_create_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_create_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_settings_white_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_more_vert_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_more_vert_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_alarm_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_alarm_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_book_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_book_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_bullet.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_bullet.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_alarm_white_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_alarm_white_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_email_accent_18dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_email_accent_18dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_keyboard_arrow_right_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_keyboard_arrow_right_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\back.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_quote.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_quote.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_done_white_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_food_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_food_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_local_pill_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_local_pill_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_italic.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_italic.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_insert_comment_black_18dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_insert_comment_black_18dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_face_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_face_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_weight_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_weight_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_settings_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_calorie_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_calorie_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_border_color_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_border_color_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_notifications_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_email_black_18dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_email_black_18dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_undo.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_undo.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_calorie_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_calorie_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_do_not_disturb_on_white_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_do_not_disturb_on_white_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_clear.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_clear.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_bold.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_bold.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_local_pill_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_local_pill_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_insert_link.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_insert_link.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_underline.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_underline.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_clear.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_clear.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_face_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_face_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_quote.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_quote.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_add_white_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_weight_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_weight_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_insert_link.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_insert_link.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_add_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_underline.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_underline.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_local_dining_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_local_dining_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_delete_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_undo.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_undo.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_insert_comment_black_18dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_insert_comment_black_18dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_email_black_18dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_email_black_18dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_keyboard_arrow_right_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_keyboard_arrow_right_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_keyboard_arrow_left_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_keyboard_arrow_left_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_alarm_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_alarm_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_alarm_white_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_alarm_white_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_done_white_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_do_not_disturb_on_white_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_do_not_disturb_on_white_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_redo.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_redo.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_email_accent_18dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_email_accent_18dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_book_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_book_black_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_create_black_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_create_black_24dp.png"
+    }
+]

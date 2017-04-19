@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.github.glomadrian.materialanimatedswitch.MaterialAnimatedSwitch xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/pin_reminder"
+    android:layout_width="wrap_content"
+    android:layout_height="48dp"
+    android:layout_gravity="center"
+    app:ball_press_color="@color/colorPrimaryDark"
+    app:ball_release_color="@color/colorTextDivider"
+    app:base_press_color="@color/colorPrimary"
+    app:base_release_color="@color/colorTextDivider"
+    app:icon_press="@mipmap/ic_alarm_white_24dp"
+    app:icon_release="@mipmap/ic_alarm_white_24dp" />
