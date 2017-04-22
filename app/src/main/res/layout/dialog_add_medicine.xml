@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/li_medicine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:orientation="vertical">
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/txt_medicine_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:hint="Name"
+            android:lines="1"
+            android:textSize="15sp"
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelText="Name" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:orientation="horizontal">
+
+            <Spinner
+                android:id="@+id/sp_quantity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:entries="@array/quantity" />
+
+            <TextView
+                android:id="@+id/tv_unit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/txt_med_instructions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:hint="Instructions"
+            android:lines="1"
+            android:textSize="16sp"
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelText="Instructions" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/li_medicine"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@id/btn_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:text="Cancel"
+            android:textColor="@color/colorTextSecond"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@id/btn_submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:text="Submit"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <com.mypopsy.widget.FloatingSearchView
+        android:id="@id/search"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:background="@color/white"
+        android:hint="Search Medicine"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="16dp"
+        app:theme="@style/CustomFloatingSearchViewTheme" />
+</RelativeLayout>

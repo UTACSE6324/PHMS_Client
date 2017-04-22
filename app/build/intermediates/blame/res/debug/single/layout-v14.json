@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\layout-v14\\md_stub_progress.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\Jarvis\\.android\\build-cache\\90d457c5e876ff1247e238096fbee0267f10f2ba\\output\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    }
+]

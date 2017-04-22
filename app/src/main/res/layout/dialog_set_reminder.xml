@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:rsv="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="From"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_start_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="24dp"
+            android:text="To"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_end_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/tv_repeat"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.github.channguyen.rsv.RangeSliderView
+        android:id="@+id/rsv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        rsv:rangeCount="7"
+        rsv:filledColor="@color/colorPrimary" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/colorTextDivider" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_height="1px"
+            android:layout_width="0dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/tv_add_time"
+            android:text="Add Time"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <com.cunoraz.tagview.TagView xmlns:tagview="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/tag_group"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        tagview:theme="@style/tagStyle"
+        tagview:lineMargin="4dp"
+        tagview:tagMargin="4dp"
+        tagview:textPaddingBottom="4dp"
+        tagview:textPaddingLeft="8dp"
+        tagview:textPaddingRight="8dp"
+        tagview:textPaddingTop="4dp" />
+
+    <LinearLayout
+        android:layout_below="@id/li_calorie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/btn_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:textColor="@color/colorTextSecond"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/btn_submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:text="Submit"
+            android:textColor="@color/colorPrimary"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:textSize="18sp" />
+    </LinearLayout>
+</LinearLayout>

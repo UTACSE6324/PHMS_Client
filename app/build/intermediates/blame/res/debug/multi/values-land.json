@@ -1,0 +1,123 @@
+[
+    {
+        "outputFile": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "C:\\Users\\Jarvis\\.android\\build-cache\\511fc114e8480329fa21d0c6e338248f44edcf89\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 69,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "C:\\Users\\Jarvis\\.android\\build-cache\\1dbdbed0895b94b7b42e9c59068d8d633fa1926f\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endColumn": 63,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "C:\\Users\\Jarvis\\.android\\build-cache\\1dbdbed0895b94b7b42e9c59068d8d633fa1926f\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 63,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 250,
+                    "endColumn": 70,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "C:\\Users\\Jarvis\\.android\\build-cache\\1dbdbed0895b94b7b42e9c59068d8d633fa1926f\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 70,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 67,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\Jarvis\\.android\\build-cache\\1dbdbed0895b94b7b42e9c59068d8d633fa1926f\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 566
+                },
+                "from": {
+                    "file": "C:\\Users\\Jarvis\\.android\\build-cache\\8de53f367957b6da342e8c48e565d6dafa84f3cf\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    }
+]

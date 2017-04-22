@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="16dp"
+            android:src="@drawable/avatar_01" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorText"
+                android:textSize="20sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Age"
+                    android:textColor="@color/colorText"
+                    android:textSize="14sp" />
+
+                <EditText
+                    android:id="@+id/txtAge"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ems="3"
+                    android:inputType="textPersonName"
+                    android:textColor="@color/colorTextDivider"
+                    android:textSize="14sp"
+                    android:theme="@style/MyEditText" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:text="Gender"
+                    android:textColor="@color/colorText"
+                    android:textSize="14sp" />
+
+                <Spinner
+                    android:id="@+id/spinner"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:entries="@array/gender"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:text="Basic Information"
+        android:textSize="20sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_marginLeft="16dp"
+        android:background="@color/colorTextDivider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Height"
+            android:textColor="@color/colorText"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/txtHeight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="5"
+            android:inputType="textPersonName"
+            android:textColor="@color/colorTextDivider"
+            android:textSize="14sp"
+            android:theme="@style/MyEditText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="cm"
+            android:textColor="@color/colorText"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:text="Weight"
+            android:textColor="@color/colorText"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/txtWeight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="5"
+            android:inputType="textPersonName"
+            android:textColor="@color/colorTextDivider"
+            android:textSize="14sp"
+            android:theme="@style/MyEditText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="kg"
+            android:textColor="@color/colorText"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:text="Vital Signs"
+        android:textSize="20sp"
+        android:layout_marginLeft="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_marginLeft="16dp"
+        android:background="@color/colorTextDivider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="Blood Pressure"
+            android:textColor="@color/colorText"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/txtBloodPressure"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="5"
+            android:inputType="textPersonName"
+            android:textColor="@color/colorTextDivider"
+            android:textSize="14sp"
+            android:theme="@style/MyEditText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="kpa"
+            android:textColor="@color/colorText"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="Blood Sugar"
+            android:textColor="@color/colorText"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/txtBloodSugar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="5"
+            android:inputType="textPersonName"
+            android:textColor="@color/colorTextDivider"
+            android:textSize="14sp"
+            android:theme="@style/MyEditText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="mg/dl"
+            android:textColor="@color/colorText"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="Cholesterol"
+            android:textColor="@color/colorText"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/txtCholesterol"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="5"
+            android:inputType="textPersonName"
+            android:textColor="@color/colorTextDivider"
+            android:textSize="14sp"
+            android:theme="@style/MyEditText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="mg/dl"
+            android:textColor="@color/colorText"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</LinearLayout>

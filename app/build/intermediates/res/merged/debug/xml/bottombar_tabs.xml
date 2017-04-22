@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_medicine"
+        icon="@mipmap/ic_local_pill_black_24dp"
+        barColorWhenSelected = "@color/white"
+        title="Medicine" />
+    <tab
+        id="@+id/tab_diet"
+        icon="@mipmap/ic_local_dining_black_24dp"
+        barColorWhenSelected = "@color/white"
+        title="Diet" />
+    <tab
+        id="@+id/tab_notes"
+        icon="@mipmap/ic_book_black_24dp"
+        barColorWhenSelected = "@color/white"
+        title="Note" />
+    <tab
+        id="@+id/tab_profile"
+        icon="@mipmap/ic_face_black_24dp"
+        barColorWhenSelected = "@color/white"
+        title="Profile" />
+</tabs>

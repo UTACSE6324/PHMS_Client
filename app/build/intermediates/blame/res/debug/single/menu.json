@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_none.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\menu\\menu_none.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_save.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\menu\\menu_save.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_edit_note.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\menu\\menu_edit_note.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_article.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\menu\\menu_article.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_contact.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\menu\\menu_contact.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_notice.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\menu\\menu_notice.xml"
+    }
+]
