@@ -1,0 +1,84 @@
+<changelist name="Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_" date="1492060633748" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2017/4/13 0:17 [Default]" />
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/cse6324/phms/MainActivity.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/cse6324/phms/MainActivity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/MainActivity.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/outputs/apk/app-debug.apk" />
+    <option name="AFTER_PATH" value="app/build/outputs/apk/app-debug.apk" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/app-debug.apk" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/cse6324/phms/LoginActivity.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/cse6324/phms/LoginActivity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/LoginActivity.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/cse6324/phms/SettingActivity.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/cse6324/phms/SettingActivity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/SettingActivity.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/res/resources-debug.ap_" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/resources-debug.ap_" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/resources-debug.ap_" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/cse6324/phms/ContactActivity.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/cse6324/phms/ContactActivity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/ContactActivity.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/cse6324/phms/EditVitalSignsActivity.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/cse6324/phms/EditVitalSignsActivity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/EditVitalSignsActivity.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/cse6324/service/MyApplication.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/cse6324/service/MyApplication.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/MyApplication.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/cse6324/phms/SettingActivity.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/cse6324/phms/SettingActivity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/SettingActivity.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/cse6324/phms/LoginActivity.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/cse6324/phms/LoginActivity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/LoginActivity.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/ZhNogHCaFrQwH_9wjj18aUCD4ug=" />
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/ZhNogHCaFrQwH_9wjj18aUCD4ug=" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/ZhNogHCaFrQwH_9wjj18aUCD4ug=" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/cse6324/service/MyApplication.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/cse6324/service/MyApplication.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/MyApplication.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/cse6324/phms/EditVitalSignsActivity.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/cse6324/phms/EditVitalSignsActivity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/EditVitalSignsActivity.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/cse6324/phms/ContactActivity.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/cse6324/phms/ContactActivity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/ContactActivity.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
+    <option name="AFTER_PATH" value="app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/resources-debug.ir.ap_" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/cse6324/phms/MainActivity.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/cse6324/phms/MainActivity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_13_0_17__Default_/MainActivity.class" />
+  </binary>
+</changelist>

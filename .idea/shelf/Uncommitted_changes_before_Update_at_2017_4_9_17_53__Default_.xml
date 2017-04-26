@@ -1,0 +1,9 @@
+<changelist name="Uncommitted_changes_before_Update_at_2017_4_9_17_53__Default_" date="1491778432550" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_9_17_53__Default_/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2017/4/9 17:53 [Default]" />
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/res/resources-debug.ap_" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/resources-debug.ap_" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2017_4_9_17_53__Default_/resources-debug.ap_" />
+  </binary>
+</changelist>
