@@ -1,5 +1,6 @@
 package com.cse6324.phms;
 
+import android.app.ProgressDialog;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
@@ -41,6 +42,9 @@ public class ArticleActivity extends AppCompatActivity {
 
         toolbar.setNavigationIcon(R.mipmap.back);
 
+        final ProgressDialog dialog = new ProgressDialog(this);
+        dialog.show();
+
         try {
             bean = (ArticleBean) getIntent().getSerializableExtra("article");
 
@@ -53,6 +57,11 @@ public class ArticleActivity extends AppCompatActivity {
                 public boolean shouldOverrideUrlLoading(WebView view, String url) {
                     view.loadUrl(url);
                     return super.shouldOverrideUrlLoading(view, url);
+                }
+
+                @Override
+                public void onPageFinished(WebView view, String url) {
+                    dialog.dismiss();
                 }
             });
 

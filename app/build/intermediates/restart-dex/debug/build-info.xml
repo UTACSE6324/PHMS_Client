@@ -1,36 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="24"
-    build-mode="COLD"
-    density="560dpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    build-mode="FULL"
+    density="xxhdpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1492779360854"
+    timestamp="1493237941800"
     token="-5545146558983756260"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="4712" />
+        duration="1716" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="60" />
+        duration="13" />
     <task
         name="verifier"
-        duration="35" />
+        duration="5" />
 
     <artifact
         location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
+    <artifact
+        location="E:\workspace\androidstudio\PHMS_Client\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
+    <artifact
+        location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1492779223808"
+        timestamp="1493237941800"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
         <artifact
             location="E:\workspace\androidstudio\PHMS_Client\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
@@ -47,41 +83,22 @@
             location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
             location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
             location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
             location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1492779306394"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="E:\workspace\androidstudio\PHMS_Client\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1492779360854"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="E:\workspace\androidstudio\PHMS_Client\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
     </build>
 

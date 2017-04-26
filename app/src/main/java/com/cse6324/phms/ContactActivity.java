@@ -82,6 +82,8 @@ public class ContactActivity extends AppCompatActivity{
         }
     };
 
+    String startDate,endDate;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -97,6 +99,13 @@ public class ContactActivity extends AppCompatActivity{
         setSupportActionBar(toolbar);
 
         toolbar.setNavigationIcon(R.mipmap.back);
+
+        try {
+            startDate = getIntent().getStringExtra("startDate");
+            endDate = getIntent().getStringExtra("endDate");
+        }catch(Exception e){
+
+        }
 
         recyclerView = (RecyclerView) findViewById(R.id.recycler_view);
         final LinearLayoutManager layoutManager = new LinearLayoutManager(this);

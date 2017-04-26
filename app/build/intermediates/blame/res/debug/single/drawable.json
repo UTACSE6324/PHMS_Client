@@ -20,6 +20,10 @@
         "source": "C:\\Users\\Jarvis\\.android\\build-cache\\1dbdbed0895b94b7b42e9c59068d8d633fa1926f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_medicine.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\shape_medicine.xml"
+    },
+    {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_02.png",
         "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\avatar_02.png"
     },
@@ -110,6 +114,10 @@
     {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_03.png",
         "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\avatar_03.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\share.png"
     },
     {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
@@ -242,10 +250,6 @@
     {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_04.png",
         "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\avatar_04.png"
-    },
-    {
-        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\med_back.png",
-        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\drawable\\med_back.png"
     },
     {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cling_button_bg.xml",

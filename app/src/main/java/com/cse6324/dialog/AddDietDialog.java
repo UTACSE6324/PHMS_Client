@@ -24,6 +24,8 @@ import com.cse6324.util.FormatUtil;
 import com.cse6324.util.UserUtil;
 import com.mypopsy.widget.FloatingSearchView;
 import com.rengwuxian.materialedittext.MaterialEditText;
+import com.romainpiel.shimmer.Shimmer;
+import com.romainpiel.shimmer.ShimmerTextView;
 
 import org.w3c.dom.Text;
 
@@ -54,7 +56,9 @@ public class AddDietDialog {
     private TextView unit;
     private MaterialEditText etName,etQuantity,etCal;
 
-    private TextView submit,cancel;
+    private Shimmer shimmer;
+    private ShimmerTextView submit;
+    private TextView cancel;
 
     private MyListener myListener;
 
@@ -88,9 +92,10 @@ public class AddDietDialog {
         etQuantity = (MaterialEditText) view.findViewById(R.id.et_quantity);
         etCal = (MaterialEditText) view.findViewById(R.id.et_calorie);
 
-        submit = (TextView) view.findViewById(R.id.btn_submit);
+        submit = (ShimmerTextView) view.findViewById(R.id.btn_submit);
         cancel = (TextView) view.findViewById(R.id.btn_cancel);
 
+        shimmer = new Shimmer();
 
         cancel.setOnClickListener(
                 new View.OnClickListener() {
@@ -105,6 +110,7 @@ public class AddDietDialog {
                 new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
+                        shimmer.start(submit);
                         new HttpUtil(HttpUtil.NORMAL_PARAMS)
                                 .add("uid", MyApplication.getPreferences(UserUtil.UID))
                                 .add("token",MyApplication.getPreferences(UserUtil.TOKEN))
@@ -197,6 +203,8 @@ public class AddDietDialog {
                 myListener.refreshActivity(dietBean,AddDietDialog.this.type);
                 dialog.dismiss();
             }
+
+            shimmer.cancel();
         }
     };
 

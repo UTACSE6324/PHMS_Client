@@ -118,6 +118,7 @@ public class NoteFragment extends Fragment {
 
     @Override
     public void onResume(){
+        initData();
         super.onResume();
     }
 }

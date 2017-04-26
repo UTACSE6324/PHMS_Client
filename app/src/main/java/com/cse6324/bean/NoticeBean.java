@@ -1,10 +1,12 @@
 package com.cse6324.bean;
 
+import java.io.Serializable;
+
 /**
  * Created by Jarvis on 2017/4/11.
  */
 
-public class NoticeBean {
+public class NoticeBean implements Serializable {
     String nid;
     String uid;
     String isnew;

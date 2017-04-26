@@ -88,6 +88,10 @@
         "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_local_dining_black_24dp.png"
     },
     {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_alarm_off_48dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_alarm_off_48dp.png"
+    },
+    {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_delete_black_24dp.png",
         "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_delete_black_24dp.png"
     },
@@ -100,8 +104,16 @@
         "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_insert_comment_black_18dp.png"
     },
     {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_search_white_24dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search_white_24dp.png"
+    },
+    {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_settings_white_24dp.png",
         "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_alarm_on_48dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_alarm_on_48dp.png"
     },
     {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_keyboard_arrow_right_black_24dp.png",
@@ -122,6 +134,10 @@
     {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_format_bullet.png",
         "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_format_bullet.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_warning_48dp.png",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_warning_48dp.png"
     },
     {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_action_redo.png",

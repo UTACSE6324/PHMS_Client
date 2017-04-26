@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:2:1-99:12
+ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:2:1-115:12
 	package
 		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml
@@ -22,7 +22,7 @@ ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.x
 	android:name
 		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:8:5-97:19
+ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:8:5-113:19
 MERGED from [com.android.support:design:25.2.0] C:\Users\Jarvis\.android\build-cache\8de53f367957b6da342e8c48e565d6dafa84f3cf\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:transition:25.2.0] C:\Users\Jarvis\.android\build-cache\ddd6bbe122ea42b1aea1176d61c8ae16bf84e018\output\AndroidManifest.xml:22:5-20
 MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] C:\Users\Jarvis\.android\build-cache\90d457c5e876ff1247e238096fbee0267f10f2ba\output\AndroidManifest.xml:13:5-20
@@ -41,6 +41,7 @@ MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Jarvis\.a
 MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Jarvis\.android\build-cache\8daf4939b1d21557bb34b3c59483e65362e05360\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Jarvis\.android\build-cache\f8f67ba0ea9fb249f13303fa1f3043653f772d10\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Jarvis\.android\build-cache\78f2cbca7642064bf38b781c071b2e3d334d237d\output\AndroidManifest.xml:23:5-20
+MERGED from [com.romainpiel.shimmer:library:1.4.0] C:\Users\Jarvis\.android\build-cache\3a41319d4352fa55c9b12167dffbab76d964e292\output\AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\Jarvis\.android\build-cache\7bcaabb6025d1460165074c8feb1ed277cb0a549\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Jarvis\.android\build-cache\cbf0e8c1577ba4f955beaac1827a690649160bf0\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Jarvis\.android\build-cache\69a08a63c960032d2efd6b9889839295c6e4bb2a\output\AndroidManifest.xml:25:5-20
@@ -161,7 +162,7 @@ ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.x
 		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:73:13-56
 	android:name
 		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:69:13-45
-activity#com.cse6324.phms.ArticleActivity
+activity#com.cse6324.phms.NoteActivity
 ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:76:9-82:52
 	android:screenOrientation
 		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:82:13-49
@@ -174,8 +175,8 @@ ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.x
 	android:theme
 		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:81:13-56
 	android:name
-		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:77:13-44
-activity#com.cse6324.phms.NoticeActivity
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:77:13-41
+activity#com.cse6324.phms.ArticleActivity
 ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:84:9-90:52
 	android:screenOrientation
 		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:90:13-49
@@ -188,17 +189,45 @@ ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.x
 	android:theme
 		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:89:13-56
 	android:name
-		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:85:13-43
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:85:13-44
+activity#com.cse6324.phms.NoticeActivity
+ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:92:9-98:52
+	android:screenOrientation
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:98:13-49
+	android:label
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:94:13-33
+	android:launchMode
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:95:13-48
+	android:windowSoftInputMode
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:96:13-67
+	android:theme
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:97:13-56
+	android:name
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:93:13-43
+activity#com.cse6324.phms.SearchActivity
+ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:100:9-106:52
+	android:screenOrientation
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:102:13-33
+	android:launchMode
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:103:13-48
+	android:windowSoftInputMode
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:104:13-67
+	android:theme
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:105:13-56
+	android:name
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:101:13-43
 receiver#com.cse6324.service.MedicineReceiver
-ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:92:9-96:20
+ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:108:9-112:20
 	android:name
-		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:92:19-70
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:108:19-70
 intent-filter#android.alarm.demo.action
-ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:93:13-95:29
+ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:109:13-111:29
 action#android.alarm.demo.action
-ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:94:17-67
+ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:110:17-67
 	android:name
-		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:94:25-65
+		ADDED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml:110:25-65
 uses-sdk
 INJECTED from E:\workspace\androidstudio\PHMS_Client\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Jarvis\.android\build-cache\f46323ea69c42ff067003372978d6a7caa77ad37\output\AndroidManifest.xml:6:5-8:41
@@ -223,6 +252,7 @@ MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Jarvis\.a
 MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Jarvis\.android\build-cache\8daf4939b1d21557bb34b3c59483e65362e05360\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Jarvis\.android\build-cache\f8f67ba0ea9fb249f13303fa1f3043653f772d10\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Jarvis\.android\build-cache\78f2cbca7642064bf38b781c071b2e3d334d237d\output\AndroidManifest.xml:21:5-43
+MERGED from [com.romainpiel.shimmer:library:1.4.0] C:\Users\Jarvis\.android\build-cache\3a41319d4352fa55c9b12167dffbab76d964e292\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\Jarvis\.android\build-cache\7bcaabb6025d1460165074c8feb1ed277cb0a549\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Jarvis\.android\build-cache\a46076c88f0fcc5aa8c1f5506a4b1c80fe2046ba\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Jarvis\.android\build-cache\cbf0e8c1577ba4f955beaac1827a690649160bf0\output\AndroidManifest.xml:21:5-23:58

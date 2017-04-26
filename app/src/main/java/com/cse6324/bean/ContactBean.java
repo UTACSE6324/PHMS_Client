@@ -1,10 +1,12 @@
 package com.cse6324.bean;
 
+import java.io.Serializable;
+
 /**
  * Created by Jarvis on 2017/2/15.
  */
 
-public class ContactBean {
+public class ContactBean implements Serializable {
     private String cid;
     private String name;
     private String phone;

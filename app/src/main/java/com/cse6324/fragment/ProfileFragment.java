@@ -1,6 +1,8 @@
 package com.cse6324.fragment;
 
 import android.content.Intent;
+import android.graphics.Color;
+import android.media.Image;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
@@ -29,6 +31,7 @@ import com.cse6324.phms.R;
 import com.cse6324.phms.SettingActivity;
 import com.cse6324.service.MyApplication;
 import com.cse6324.util.UserUtil;
+import com.wooplr.spotlight.SpotlightView;
 
 import org.w3c.dom.Text;
 
@@ -46,7 +49,7 @@ import static android.text.TextUtils.isEmpty;
 
 public class ProfileFragment extends Fragment implements View.OnClickListener {
 
-    ImageView ivNotification;
+    ImageView ivNotification,ivEdit;
     TextView tvName, tvEmail, tvAge, tvGender, tvHeight, tvWeight, tvBp, tvBsl, tvChol;
 
     RelativeLayout rlEditVitalSigns;
@@ -90,6 +93,8 @@ public class ProfileFragment extends Fragment implements View.OnClickListener {
         tvBsl = (TextView) v.findViewById(R.id.tv_bsl);
         tvChol = (TextView) v.findViewById(R.id.tv_chol);
 
+        ivEdit = (ImageView) v.findViewById(R.id.iv_edit);
+
         ivNotification = (ImageView) v.findViewById(R.id.iv_notification);
 
         setInfo();
@@ -105,6 +110,8 @@ public class ProfileFragment extends Fragment implements View.OnClickListener {
 
         layoutNotice = (LinearLayout) v.findViewById(R.id.layout_notice);
         layoutNotice.setOnClickListener(this);
+
+        initShowCase();
 
         return v;
     }
@@ -165,6 +172,29 @@ public class ProfileFragment extends Fragment implements View.OnClickListener {
                 getContext().startActivity(intent);
                 break;
         }
+    }
+
+    public void initShowCase(){
+        new SpotlightView.Builder(getActivity())
+                .introAnimationDuration(400)
+                .performClick(true)
+                .fadeinTextDuration(400)
+                .headingTvColor(Color.parseColor("#ffffff"))
+                .headingTvSize(32)
+                .headingTvText("Vital Signs")
+                .subHeadingTvColor(Color.parseColor("#ffffff"))
+                .subHeadingTvSize(16)
+                .subHeadingTvText("Save or edit your own vital signs")
+                .maskColor(Color.parseColor("#dc000000"))
+                .target(ivEdit)
+                .lineAnimDuration(400)
+                .lineAndArcColor(Color.parseColor("#ffffff"))
+                .dismissOnTouch(true)
+                .dismissOnBackPress(true)
+                .enableDismissAfterShown(true)
+                .usageId("vitalsigns") //UNIQUE ID
+                .enableRevealAnimation(true)
+                .show();
     }
 
     public String isEmpty(String str) {

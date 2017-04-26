@@ -48,6 +48,10 @@
         "source": "C:\\Users\\Jarvis\\.android\\build-cache\\8de53f367957b6da342e8c48e565d6dafa84f3cf\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_contact.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\layout\\dialog_contact.xml"
+    },
+    {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showcase_button.xml",
         "source": "C:\\Users\\Jarvis\\.android\\build-cache\\6ae4d1c27d6cacaa5250c383f57968c64ca08648\\output\\res\\layout\\showcase_button.xml"
     },
@@ -114,6 +118,10 @@
     {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "C:\\Users\\Jarvis\\.android\\build-cache\\1dbdbed0895b94b7b42e9c59068d8d633fa1926f\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_search.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\layout\\list_item_search.xml"
     },
     {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
@@ -236,6 +244,10 @@
         "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\layout\\fragment_article.xml"
     },
     {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_head_search.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\layout\\list_head_search.xml"
+    },
+    {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\Jarvis\\.android\\build-cache\\1dbdbed0895b94b7b42e9c59068d8d633fa1926f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
@@ -348,6 +360,10 @@
         "source": "C:\\Users\\Jarvis\\.android\\build-cache\\1dbdbed0895b94b7b42e9c59068d8d633fa1926f\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_note.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\layout\\activity_note.xml"
+    },
+    {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_diet.xml",
         "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\layout\\list_item_diet.xml"
     },
@@ -378,6 +394,10 @@
     {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_head_diet.xml",
         "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\layout\\list_head_diet.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\layout\\activity_search.xml"
     },
     {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",

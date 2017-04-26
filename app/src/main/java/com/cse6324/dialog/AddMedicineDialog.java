@@ -1,6 +1,8 @@
 package com.cse6324.dialog;
 
 import android.content.Context;
+import android.content.Intent;
+import android.support.annotation.NonNull;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.View;
@@ -9,6 +11,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.afollestad.materialdialogs.DialogAction;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.alibaba.fastjson.JSON;
 import com.cse6324.adapter.AddMedicineAdapter;
@@ -16,11 +19,14 @@ import com.cse6324.bean.DietBean;
 import com.cse6324.bean.MedicineAPIBean;
 import com.cse6324.http.Constant;
 import com.cse6324.http.HttpUtil;
+import com.cse6324.phms.LoginActivity;
 import com.cse6324.phms.R;
 import com.cse6324.service.MyApplication;
 import com.cse6324.util.UserUtil;
 import com.mypopsy.widget.FloatingSearchView;
 import com.rengwuxian.materialedittext.MaterialEditText;
+import com.romainpiel.shimmer.Shimmer;
+import com.romainpiel.shimmer.ShimmerTextView;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -45,9 +51,12 @@ public class AddMedicineDialog {
 
     private MaterialEditText name, instruction;
     private Spinner quantity;
-    private TextView submit, cancel, tvUnit;
+    private ShimmerTextView submit;
+    private TextView  cancel, tvUnit;
 
     private AddMedicineAdapter adapter;
+
+    private Shimmer shimmer;
 
     private com.mypopsy.widget.FloatingSearchView searchView;
 
@@ -77,10 +86,12 @@ public class AddMedicineDialog {
         quantity = (Spinner) view.findViewById(R.id.sp_quantity);
         tvUnit = (TextView) view.findViewById(R.id.tv_unit);
 
-        submit = (TextView) view.findViewById(R.id.btn_submit);
+        submit = (ShimmerTextView) view.findViewById(R.id.btn_submit);
         cancel = (TextView) view.findViewById(R.id.btn_cancel);
 
         searchView = (FloatingSearchView) view.findViewById(R.id.search);
+
+        shimmer = new Shimmer();
 
         cancel.setOnClickListener(
                 new View.OnClickListener() {
@@ -96,6 +107,8 @@ public class AddMedicineDialog {
                     @Override
                     public void onClick(View v) {
                         if (!isEmpty(name.getText())) {
+                            shimmer.start(submit);
+
                             new HttpUtil(HttpUtil.NORMAL_PARAMS)
                                     .add("uid", MyApplication.getPreferences(UserUtil.UID))
                                     .add("token", MyApplication.getPreferences(UserUtil.TOKEN))
@@ -165,6 +178,25 @@ public class AddMedicineDialog {
         @Override
         public void onResponse(Response httpResponse, String response, Headers headers) {
 
+            if(headers.get("summary").equals("Token out of date")){
+                new MaterialDialog
+                        .Builder(context)
+                        .icon(context.getResources().getDrawable(R.mipmap.ic_warning_48dp))
+                        .title("Login expired")
+                        .content("It seems the account has been logged in on another device.")
+                        .positiveText("OK")
+                        .onPositive(new MaterialDialog.SingleButtonCallback() {
+                            @Override
+                            public void onClick(@NonNull MaterialDialog dialog, @NonNull DialogAction which) {
+                                UserUtil.saveUserInfo(null);
+                                Intent intent = new Intent(context, LoginActivity.class);
+                                context.startActivity(intent);
+                                MyApplication.getInstance().finishAllActivity();
+                            }
+                        })
+                        .show();
+            }
+
             if (response == null || response.length() == 0) {
                 Toast.makeText(context, "Connect fail", Toast.LENGTH_SHORT).show();
             } else if (headers.get("Status-Code").equals("1")) {
@@ -174,6 +206,8 @@ public class AddMedicineDialog {
             } else {
                 Toast.makeText(context, response, Toast.LENGTH_SHORT).show();
             }
+
+            shimmer.cancel();
         }
     };
 

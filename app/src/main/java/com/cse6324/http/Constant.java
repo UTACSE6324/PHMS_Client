@@ -38,7 +38,10 @@ public class Constant {
     public final static String URL_GETNOTICE = "http://45.55.179.123/getnotice.php?";
     public final static String URL_DELETENOTICE = "http://45.55.179.123/deletenotice.php?";
 
+    public final static String URL_SEARCH = "http://45.55.179.123/search.php?";
+
     public final static String URL_ARTICLE = "http://api.nytimes.com/svc/search/v2/articlesearch.json?";
 
     public final static String URL_CONFLICT = "http://45.55.179.123/page/conflict.php?";
+    public final static String URL_SENDEMAIL = "http://45.55.179.123/sendemail.php?";
 }

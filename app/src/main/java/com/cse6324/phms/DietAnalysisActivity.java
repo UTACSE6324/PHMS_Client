@@ -10,6 +10,7 @@ import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.CardView;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
@@ -21,6 +22,7 @@ import android.widget.Toast;
 import com.alibaba.fastjson.JSON;
 import com.cse6324.adapter.DietListAdapter;
 import com.cse6324.bean.DietBean;
+import com.cse6324.dialog.ContactDialog;
 import com.cse6324.fragment.DietFragment;
 import com.cse6324.http.Constant;
 import com.cse6324.http.HttpUtil;
@@ -57,13 +59,15 @@ import static com.cse6324.service.MyApplication.getContext;
  * Created by Jarvis on 2017/3/25.
  */
 
-public class DietAnalysisActivity extends AppCompatActivity{
+public class DietAnalysisActivity extends AppCompatActivity {
     private Context context;
     private TabLayout tabs;
-    private TextView tvDate,startDate,endDate;
-    private ImageView left,right;
+    private TextView tvDate, startDate, endDate;
+    private ImageView left, right;
 
-    private Calendar cal,startCal,endCal;;
+    private Calendar cal, startCal, endCal;
+
+    private CardView shareCard;
 
     private TextView tvCalorie;
     private LineChart chartCalorie;
@@ -89,7 +93,7 @@ public class DietAnalysisActivity extends AppCompatActivity{
         initData();
     }
 
-    public void initViews(){
+    public void initViews() {
         tvDate = (TextView) findViewById(R.id.tv_date);
         startDate = (TextView) findViewById(R.id.start_date);
         endDate = (TextView) findViewById(R.id.end_date);
@@ -99,6 +103,17 @@ public class DietAnalysisActivity extends AppCompatActivity{
         tabs = (TabLayout) findViewById(R.id.tabs);
         tabs.addTab(tabs.newTab().setText("Week"));
         tabs.addTab(tabs.newTab().setText("Month"));
+
+        shareCard = (CardView) findViewById(R.id.card_share);
+        shareCard.setOnClickListener(
+                new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        new ContactDialog(DietAnalysisActivity.this,
+                                startDate.getText().toString(), endDate.getText().toString()).show();
+                    }
+                }
+        );
 
         tabs.addOnTabSelectedListener(
                 new TabLayout.OnTabSelectedListener() {
@@ -218,14 +233,14 @@ public class DietAnalysisActivity extends AppCompatActivity{
         return super.onOptionsItemSelected(item);
     }
 
-    public void initData(){
-        if(tabs.getTabAt(tabs.getSelectedTabPosition()).getText().equals("Week")){
+    public void initData() {
+        if (tabs.getTabAt(tabs.getSelectedTabPosition()).getText().equals("Week")) {
             startCal = FormatUtil.getWeekOfDate(cal)[0];
             endCal = FormatUtil.getWeekOfDate(cal)[1];
 
             startDate.setText(FormatUtil.getDate(startCal));
             endDate.setText(FormatUtil.getDate(endCal));
-        }else{
+        } else {
             startCal = FormatUtil.getMonthOfDate(cal)[0];
             endCal = FormatUtil.getMonthOfDate(cal)[1];
 
@@ -235,10 +250,10 @@ public class DietAnalysisActivity extends AppCompatActivity{
 
         new HttpUtil(HttpUtil.NORMAL_PARAMS)
                 .add("uid", MyApplication.getPreferences(UserUtil.UID))
-                .add("token",MyApplication.getPreferences(UserUtil.TOKEN))
+                .add("token", MyApplication.getPreferences(UserUtil.TOKEN))
                 .add("startdate", FormatUtil.getDate(startCal))
                 .add("enddate", FormatUtil.getDate(endCal))
-                .get(Constant.URL_GETDIETHISTORY,callback);
+                .get(Constant.URL_GETDIETHISTORY, callback);
     }
 
     private BaseHttpRequestCallback callback = new BaseHttpRequestCallback() {
@@ -247,12 +262,12 @@ public class DietAnalysisActivity extends AppCompatActivity{
 
             if (response == null || response.length() == 0) {
                 Toast.makeText(getContext(), "Connect fail", Toast.LENGTH_SHORT).show();
-            } else{
+            } else {
                 try {
                     List<DietBean> dietList = JSON.parseArray(response, DietBean.class);
                     setAvgCal(dietList);
                     setPercent(dietList);
-                }catch(Exception e){
+                } catch (Exception e) {
                     Toast.makeText(getContext(), "Error", Toast.LENGTH_SHORT).show();
                 }
             }
@@ -260,15 +275,15 @@ public class DietAnalysisActivity extends AppCompatActivity{
     };
 
 
-    public void setPercent(List<DietBean> dietList){
+    public void setPercent(List<DietBean> dietList) {
         ArrayList<PieEntry> entries = new ArrayList<PieEntry>();
 
 
-        float breakfast=0,lunch=0,dinner=0,snack=0;
+        float breakfast = 0, lunch = 0, dinner = 0, snack = 0;
 
 
-        for(int i = 0; i < dietList.size(); i++){
-            switch(dietList.get(i).getType()){
+        for (int i = 0; i < dietList.size(); i++) {
+            switch (dietList.get(i).getType()) {
                 case 0:
                     breakfast += Float.parseFloat(dietList.get(i).getCalorie());
                     break;
@@ -284,10 +299,10 @@ public class DietAnalysisActivity extends AppCompatActivity{
             }
         }
 
-        entries.add(new PieEntry(breakfast,"breakfast"));
-        entries.add(new PieEntry(lunch,"lunch"));
-        entries.add(new PieEntry(dinner,"dinner"));
-        entries.add(new PieEntry(snack,"snack"));
+        entries.add(new PieEntry(breakfast, "breakfast"));
+        entries.add(new PieEntry(lunch, "lunch"));
+        entries.add(new PieEntry(dinner, "dinner"));
+        entries.add(new PieEntry(snack, "snack"));
 
         PieDataSet dataSet = new PieDataSet(entries, "Election Results");
         dataSet.setSliceSpace(3f);
@@ -310,11 +325,11 @@ public class DietAnalysisActivity extends AppCompatActivity{
         chartPercent.invalidate();
     }
 
-    public void setAvgCal(List<DietBean> dietList){
+    public void setAvgCal(List<DietBean> dietList) {
         ArrayList<Entry> values = new ArrayList<>();
 
         int num;
-        if(tabs.getSelectedTabPosition() == 0)
+        if (tabs.getSelectedTabPosition() == 0)
             num = 7;
         else
             num = 30;
@@ -324,8 +339,8 @@ public class DietAnalysisActivity extends AppCompatActivity{
             String date = FormatUtil.getDateOffset(startCal, i);
             float calorie = 0;
 
-            for(int j = 0; j< dietList.size(); j++){
-                if(dietList.get(j).getDate().equals(date)){
+            for (int j = 0; j < dietList.size(); j++) {
+                if (dietList.get(j).getDate().equals(date)) {
                     calorie += Float.parseFloat(dietList.get(j).getCalorie());
                 }
             }
@@ -334,13 +349,13 @@ public class DietAnalysisActivity extends AppCompatActivity{
             values.add(new Entry(i, calorie));
         }
 
-        total = total/dietList.size();
+        total = total / dietList.size();
         tvCalorie.setText(total + "");
 
         LineDataSet set1;
         if (chartCalorie.getData() != null &&
                 chartCalorie.getData().getDataSetCount() > 0) {
-            set1 = (LineDataSet)chartCalorie.getData().getDataSetByIndex(0);
+            set1 = (LineDataSet) chartCalorie.getData().getDataSetByIndex(0);
             set1.setValues(values);
         } else {
             set1 = new LineDataSet(values, "Calorie intake is below average");

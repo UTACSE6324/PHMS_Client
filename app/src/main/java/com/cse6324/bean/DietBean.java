@@ -1,10 +1,12 @@
 package com.cse6324.bean;
 
+import java.io.Serializable;
+
 /**
  * Created by Jarvis on 2017/2/25.
  */
 
-public class DietBean {
+public class DietBean implements Serializable{
     int dietid;
     int type;
     String date;

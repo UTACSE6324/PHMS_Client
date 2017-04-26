@@ -2,11 +2,13 @@ package com.cse6324.bean;
 
 import com.cse6324.service.MyApplication;
 
+import java.io.Serializable;
+
 /**
  * Created by tusha on 2/27/2017.
  */
 
-public class MedicineBean {
+public class MedicineBean implements Serializable{
 
     private String mid;
     private String api_id;

@@ -101,78 +101,33 @@ public class MedicineListAdapter extends RecyclerView.Adapter {
 
     @Override
     public void onBindViewHolder(RecyclerView.ViewHolder viewHolder, int i) {
-        ItemViewHolder itemViewHolder = (ItemViewHolder) viewHolder;
-        MedicineBean bean = medicineList.get(i);
+        final ItemViewHolder itemViewHolder = (ItemViewHolder) viewHolder;
+        final MedicineBean bean = medicineList.get(i);
 
         itemViewHolder.bean = bean;
         itemViewHolder.tvName.setText(bean.getName());
         itemViewHolder.tvQuantity.setText(bean.getQuantity() + " " + bean.getUnit());
-        itemViewHolder.tvInstraction.setText(bean.getInstructions());
 
         if (!isEmpty(bean.getTimes()))
             itemViewHolder.tvTime.setText(bean.getTimes());
         else
             itemViewHolder.tvTime.setText("No reminder");
 
-        if (bean.getReminder() != null && bean.getReminder().equals("1"))
-            itemViewHolder.pinReminder.setSelected(true);
-        else
-            itemViewHolder.pinReminder.setSelected(false);
-
-    }
-
-    private class ItemViewHolder extends RecyclerView.ViewHolder {
-        MedicineBean bean;
-        TextView tvName, tvQuantity, tvInstraction, tvTime;
-        ImageView ivMore;
-        MaterialAnimatedSwitch pinReminder;
-
-        private ItemViewHolder(View itemView) {
-            super(itemView);
+        if (bean.getReminder() != null && bean.getReminder().equals("1")) {
+            itemViewHolder.ivAlarm.setImageResource(R.mipmap.ic_alarm_on_48dp);
+            itemViewHolder.ivAlarm.setTag("1");
+        } else {
+            itemViewHolder.ivAlarm.setImageResource(R.mipmap.ic_alarm_off_48dp);
+            itemViewHolder.ivAlarm.setTag("0");
+        }
 
 
-            tvName = (TextView) itemView.findViewById(R.id.tv_name);
-            tvQuantity = (TextView) itemView.findViewById(R.id.tv_quantity);
-            tvInstraction = (TextView) itemView.findViewById(R.id.tv_instruction);
-            tvTime = (TextView) itemView.findViewById(R.id.tv_time);
+        itemViewHolder.ivAlarm.setOnClickListener(
+                new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        if (itemViewHolder.ivAlarm.getTag().equals("0")) {
 
-            ivMore = (ImageView) itemView.findViewById(R.id.iv_more);
-
-            DroppyMenuPopup.Builder droppyBuilder = new DroppyMenuPopup.Builder(context, ivMore);
-
-            droppyBuilder.addMenuItem(new DroppyMenuItem("Edit", R.mipmap.ic_create_black_24dp));
-            droppyBuilder.addMenuItem(new DroppyMenuItem("Delete", R.mipmap.ic_delete_black_24dp));
-
-            droppyBuilder.setOnClick(new DroppyClickCallbackInterface() {
-                @Override
-                public void call(View v, int id) {
-
-                    switch (id) {
-                        case 0:
-                            new SetReminderDialog(context, bean, setReminderListener).show();
-                            break;
-                        case 1:
-                            new HttpUtil(HttpUtil.NORMAL_PARAMS)
-                                    .add("uid",MyApplication.getPreferences(UserUtil.UID))
-                                    .add("token",MyApplication.getPreferences(UserUtil.TOKEN))
-                                    .add("mid",bean.getMid())
-                                    .get(Constant.URL_DELETEMEDICINE,callback);
-                            break;
-                    }
-                }
-            });
-
-            droppyBuilder.setPopupAnimation(new DroppyFadeInAnimation());
-
-            DroppyMenuPopup droppyMenu = droppyBuilder.build();
-
-            pinReminder = (MaterialAnimatedSwitch) itemView.findViewById(R.id.pin_reminder);
-
-            pinReminder.setOnCheckedChangeListener(new MaterialAnimatedSwitch.OnCheckedChangeListener() {
-                @Override
-                public void onCheckedChanged(boolean b) {
-                    try {
-                        if (b == true) {
                             SimpleDateFormat sdf = new SimpleDateFormat("HH:mm");
                             Date date;
                             try {
@@ -191,28 +146,70 @@ public class MedicineListAdapter extends RecyclerView.Adapter {
                                 pi = PendingIntent.getBroadcast(context, 0, alarmIntent, 0);
                                 am.setRepeating(AlarmManager.RTC_WAKEUP, c.getTimeInMillis(), AlarmManager.INTERVAL_DAY, pi);
                                 Toast.makeText(context, c.getTime().toString(), Toast.LENGTH_SHORT).show();
-                            } catch (ParseException e) {
+
+                                itemViewHolder.ivAlarm.setImageResource(R.mipmap.ic_alarm_on_48dp);
+                                itemViewHolder.ivAlarm.setTag("1");
+                            } catch (Exception e) {
                                 e.printStackTrace();
                             }
                         } else {
+                            itemViewHolder.ivAlarm.setImageResource(R.mipmap.ic_alarm_off_48dp);
+                            itemViewHolder.ivAlarm.setTag("0");
+
                             Toast.makeText(context, "cancel", Toast.LENGTH_SHORT).show();
                             am.cancel(pi);
                             pi.cancel();
                         }
-                    } catch (Exception e) {
                     }
                 }
-            });
+        );
+    }
+
+    private class ItemViewHolder extends RecyclerView.ViewHolder {
+        MedicineBean bean;
+        TextView tvName, tvQuantity, tvTime;
+        ImageView ivAlarm;
+
+        private ItemViewHolder(View itemView) {
+            super(itemView);
+
+            tvName = (TextView) itemView.findViewById(R.id.tv_name);
+            tvQuantity = (TextView) itemView.findViewById(R.id.tv_quantity);
+            tvTime = (TextView) itemView.findViewById(R.id.tv_time);
+            ivAlarm = (ImageView) itemView.findViewById(R.id.iv_alarm);
+
+            itemView.setOnClickListener(
+                    new View.OnClickListener() {
+                        @Override
+                        public void onClick(View v) {
+                            new SetReminderDialog(context, bean, setReminderListener).show();
+                        }
+                    }
+            );
+
+            itemView.setOnLongClickListener(
+                    new View.OnLongClickListener() {
+                        @Override
+                        public boolean onLongClick(View v) {
+                            new HttpUtil(HttpUtil.NORMAL_PARAMS)
+                                    .add("uid", MyApplication.getPreferences(UserUtil.UID))
+                                    .add("token", MyApplication.getPreferences(UserUtil.TOKEN))
+                                    .add("mid", bean.getMid())
+                                    .get(Constant.URL_DELETEMEDICINE, callback);
+                            return false;
+                        }
+                    }
+            );
         }
     }
 
     private BaseHttpRequestCallback callback = new BaseHttpRequestCallback() {
         @Override
         public void onResponse(Response httpResponse, String response, Headers headers) {
-            if(headers.get("Status-Code").equals("1")){
+            if (headers.get("Status-Code").equals("1")) {
                 refreshListener.refreshActivity();
-            }else{
-                Toast.makeText(context,headers.get("summary"),Toast.LENGTH_SHORT).show();
+            } else {
+                Toast.makeText(context, headers.get("summary"), Toast.LENGTH_SHORT).show();
             }
         }
     };

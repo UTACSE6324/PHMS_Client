@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/appbar"
@@ -19,10 +19,10 @@
             app:popupTheme="@style/AppTheme.PopupOverlay">
 
             <LinearLayout
-                android:layout_gravity="right"
-                android:orientation="horizontal"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content">
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:orientation="horizontal">
 
                 <ImageView
                     android:id="@+id/left"
@@ -55,17 +55,17 @@
     <android.support.design.widget.TabLayout
         android:id="@+id/tabs"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content" />
 
     <ScrollView
-        android:layout_weight="1"
         android:layout_width="match_parent"
-        android:layout_height="0dp">
+        android:layout_height="0dp"
+        android:layout_weight="1">
 
         <LinearLayout
-            android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
 
             <android.support.v7.widget.CardView
                 android:layout_width="match_parent"
@@ -73,25 +73,26 @@
                 android:layout_margin="8dp">
 
                 <RelativeLayout
-                    android:orientation="vertical"
-                    android:padding="16dp"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content">
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="16dp">
 
                     <TextView
                         android:id="@+id/title"
-                        android:gravity="center"
-                        android:textSize="18sp"
-                        android:text="General Diet Analysis"
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content" />
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="General Diet Analysis"
+                        android:textSize="18sp" />
 
                     <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
                         android:layout_below="@+id/title"
                         android:layout_centerHorizontal="true"
-                        android:orientation="horizontal"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
+                        android:orientation="horizontal">
+
                         <TextView
                             android:id="@+id/start_date"
                             android:layout_width="wrap_content"
@@ -102,13 +103,13 @@
                             android:textSize="18sp" />
 
                         <TextView
-                            android:text="-"
-                            android:textSize="18sp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
                             android:layout_marginLeft="16dp"
                             android:layout_marginRight="16dp"
+                            android:text="-"
                             android:textColor="@color/colorText"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content" />
+                            android:textSize="18sp" />
 
                         <TextView
                             android:id="@+id/end_date"
@@ -126,41 +127,42 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp">
+
                 <RelativeLayout
-                    android:orientation="vertical"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content">
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
 
                     <TextView
                         android:id="@+id/tv_title_calorie"
-                        android:textSize="18sp"
-                        android:layout_marginTop="16dp"
-                        android:layout_marginLeft="16dp"
-                        android:textColor="@color/colorTextSecond"
-                        android:text="Average Calorie"
                         android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" />
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginTop="16dp"
+                        android:text="Average Calorie"
+                        android:textColor="@color/colorTextSecond"
+                        android:textSize="18sp" />
 
                     <TextView
                         android:id="@+id/tv_cal"
-                        android:textSize="18sp"
-                        android:layout_toRightOf="@+id/tv_title_calorie"
-                        android:layout_alignBottom="@+id/tv_title_calorie"
-                        android:layout_marginTop="16dp"
-                        android:layout_marginLeft="16dp"
-                        android:textColor="@color/colorPrimary"
                         android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" />
+                        android:layout_height="wrap_content"
+                        android:layout_alignBottom="@+id/tv_title_calorie"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_toRightOf="@+id/tv_title_calorie"
+                        android:textColor="@color/colorPrimary"
+                        android:textSize="18sp" />
 
                     <com.github.mikephil.charting.charts.LineChart
                         android:id="@+id/cal_chart"
+                        android:layout_width="match_parent"
+                        android:layout_height="120dp"
                         android:layout_below="@+id/tv_cal"
-                        android:layout_marginTop="16dp"
+                        android:layout_marginBottom="8dp"
                         android:layout_marginLeft="8dp"
                         android:layout_marginRight="8dp"
-                        android:layout_marginBottom="8dp"
-                        android:layout_width="match_parent"
-                        android:layout_height="120dp"/>
+                        android:layout_marginTop="16dp" />
                 </RelativeLayout>
             </android.support.v7.widget.CardView>
 
@@ -168,32 +170,61 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp">
+
                 <RelativeLayout
-                    android:orientation="vertical"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content">
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
 
                     <TextView
                         android:id="@+id/tv_title_percent"
-                        android:textSize="18sp"
-                        android:layout_marginTop="16dp"
-                        android:layout_marginLeft="16dp"
-                        android:textColor="@color/colorTextSecond"
-                        android:text="Percentage of intake"
                         android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" />
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginTop="16dp"
+                        android:text="Percentage of intake"
+                        android:textColor="@color/colorTextSecond"
+                        android:textSize="18sp" />
 
                     <com.github.mikephil.charting.charts.PieChart
                         android:id="@+id/percent_chart"
+                        android:layout_width="360dp"
+                        android:layout_height="360dp"
                         android:layout_below="@+id/tv_title_percent"
                         android:layout_centerHorizontal="true"
-                        android:layout_marginTop="16dp"
+                        android:layout_marginBottom="8dp"
                         android:layout_marginLeft="8dp"
                         android:layout_marginRight="8dp"
-                        android:layout_marginBottom="8dp"
-                        android:layout_width="360dp"
-                        android:layout_height="360dp"/>
+                        android:layout_marginTop="16dp" />
                 </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_share"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="48dp"
+                        android:layout_height="48dp"
+                        android:layout_margin="16dp"
+                        android:src="@drawable/share" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Share it to your contact"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
             </android.support.v7.widget.CardView>
         </LinearLayout>
     </ScrollView>

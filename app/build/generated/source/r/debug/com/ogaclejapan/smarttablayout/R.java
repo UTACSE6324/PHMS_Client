@@ -8,35 +8,35 @@ package com.ogaclejapan.smarttablayout;
 
 public final class R {
     public static final class attr {
-        public static final int stl_clickable = 0x7f0101d4;
-        public static final int stl_customTabTextLayoutId = 0x7f0101d1;
-        public static final int stl_customTabTextViewId = 0x7f0101d2;
-        public static final int stl_defaultTabBackground = 0x7f0101cb;
-        public static final int stl_defaultTabTextAllCaps = 0x7f0101cc;
-        public static final int stl_defaultTabTextColor = 0x7f0101cd;
-        public static final int stl_defaultTabTextHorizontalPadding = 0x7f0101cf;
-        public static final int stl_defaultTabTextMinWidth = 0x7f0101d0;
-        public static final int stl_defaultTabTextSize = 0x7f0101ce;
-        public static final int stl_distributeEvenly = 0x7f0101d3;
-        public static final int stl_dividerColor = 0x7f0101c8;
-        public static final int stl_dividerColors = 0x7f0101c9;
-        public static final int stl_dividerThickness = 0x7f0101ca;
-        public static final int stl_drawDecorationAfterTab = 0x7f0101d6;
-        public static final int stl_indicatorAlwaysInCenter = 0x7f0101ba;
-        public static final int stl_indicatorColor = 0x7f0101bf;
-        public static final int stl_indicatorColors = 0x7f0101c0;
-        public static final int stl_indicatorCornerRadius = 0x7f0101c3;
-        public static final int stl_indicatorGravity = 0x7f0101be;
-        public static final int stl_indicatorInFront = 0x7f0101bc;
-        public static final int stl_indicatorInterpolation = 0x7f0101bd;
-        public static final int stl_indicatorThickness = 0x7f0101c1;
-        public static final int stl_indicatorWidth = 0x7f0101c2;
-        public static final int stl_indicatorWithoutPadding = 0x7f0101bb;
-        public static final int stl_overlineColor = 0x7f0101c4;
-        public static final int stl_overlineThickness = 0x7f0101c5;
-        public static final int stl_titleOffset = 0x7f0101d5;
-        public static final int stl_underlineColor = 0x7f0101c6;
-        public static final int stl_underlineThickness = 0x7f0101c7;
+        public static final int stl_clickable = 0x7f0101d5;
+        public static final int stl_customTabTextLayoutId = 0x7f0101d2;
+        public static final int stl_customTabTextViewId = 0x7f0101d3;
+        public static final int stl_defaultTabBackground = 0x7f0101cc;
+        public static final int stl_defaultTabTextAllCaps = 0x7f0101cd;
+        public static final int stl_defaultTabTextColor = 0x7f0101ce;
+        public static final int stl_defaultTabTextHorizontalPadding = 0x7f0101d0;
+        public static final int stl_defaultTabTextMinWidth = 0x7f0101d1;
+        public static final int stl_defaultTabTextSize = 0x7f0101cf;
+        public static final int stl_distributeEvenly = 0x7f0101d4;
+        public static final int stl_dividerColor = 0x7f0101c9;
+        public static final int stl_dividerColors = 0x7f0101ca;
+        public static final int stl_dividerThickness = 0x7f0101cb;
+        public static final int stl_drawDecorationAfterTab = 0x7f0101d7;
+        public static final int stl_indicatorAlwaysInCenter = 0x7f0101bb;
+        public static final int stl_indicatorColor = 0x7f0101c0;
+        public static final int stl_indicatorColors = 0x7f0101c1;
+        public static final int stl_indicatorCornerRadius = 0x7f0101c4;
+        public static final int stl_indicatorGravity = 0x7f0101bf;
+        public static final int stl_indicatorInFront = 0x7f0101bd;
+        public static final int stl_indicatorInterpolation = 0x7f0101be;
+        public static final int stl_indicatorThickness = 0x7f0101c2;
+        public static final int stl_indicatorWidth = 0x7f0101c3;
+        public static final int stl_indicatorWithoutPadding = 0x7f0101bc;
+        public static final int stl_overlineColor = 0x7f0101c5;
+        public static final int stl_overlineThickness = 0x7f0101c6;
+        public static final int stl_titleOffset = 0x7f0101d6;
+        public static final int stl_underlineColor = 0x7f0101c7;
+        public static final int stl_underlineThickness = 0x7f0101c8;
     }
     public static final class id {
         public static final int auto = 0x7f0f002c;
@@ -48,7 +48,7 @@ public final class R {
         public static final int top = 0x7f0f0033;
     }
     public static final class styleable {
-        public static final int[] stl_SmartTabLayout = { 0x7f0101ba, 0x7f0101bb, 0x7f0101bc, 0x7f0101bd, 0x7f0101be, 0x7f0101bf, 0x7f0101c0, 0x7f0101c1, 0x7f0101c2, 0x7f0101c3, 0x7f0101c4, 0x7f0101c5, 0x7f0101c6, 0x7f0101c7, 0x7f0101c8, 0x7f0101c9, 0x7f0101ca, 0x7f0101cb, 0x7f0101cc, 0x7f0101cd, 0x7f0101ce, 0x7f0101cf, 0x7f0101d0, 0x7f0101d1, 0x7f0101d2, 0x7f0101d3, 0x7f0101d4, 0x7f0101d5, 0x7f0101d6 };
+        public static final int[] stl_SmartTabLayout = { 0x7f0101bb, 0x7f0101bc, 0x7f0101bd, 0x7f0101be, 0x7f0101bf, 0x7f0101c0, 0x7f0101c1, 0x7f0101c2, 0x7f0101c3, 0x7f0101c4, 0x7f0101c5, 0x7f0101c6, 0x7f0101c7, 0x7f0101c8, 0x7f0101c9, 0x7f0101ca, 0x7f0101cb, 0x7f0101cc, 0x7f0101cd, 0x7f0101ce, 0x7f0101cf, 0x7f0101d0, 0x7f0101d1, 0x7f0101d2, 0x7f0101d3, 0x7f0101d4, 0x7f0101d5, 0x7f0101d6, 0x7f0101d7 };
         public static final int stl_SmartTabLayout_stl_clickable = 26;
         public static final int stl_SmartTabLayout_stl_customTabTextLayoutId = 23;
         public static final int stl_SmartTabLayout_stl_customTabTextViewId = 24;

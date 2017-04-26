@@ -8,6 +8,10 @@
         "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\menu\\menu_save.xml"
     },
     {
+        "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_edit.xml",
+        "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\menu\\menu_edit.xml"
+    },
+    {
         "merged": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_edit_note.xml",
         "source": "E:\\workspace\\androidstudio\\PHMS_Client\\app\\src\\main\\res\\menu\\menu_edit_note.xml"
     },

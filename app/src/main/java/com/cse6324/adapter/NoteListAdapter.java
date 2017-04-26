@@ -14,6 +14,7 @@ import com.cse6324.bean.ArticleBean;
 import com.cse6324.bean.NoteBean;
 import com.cse6324.phms.ArticleActivity;
 import com.cse6324.phms.EditNoteActivity;
+import com.cse6324.phms.NoteActivity;
 import com.cse6324.phms.R;
 
 import java.util.ArrayList;
@@ -94,7 +95,7 @@ public class NoteListAdapter extends RecyclerView.Adapter {
                             Intent intent;
 
                             if (bean.getType().equals("normal")) {
-                                intent = new Intent(context, EditNoteActivity.class);
+                                intent = new Intent(context, NoteActivity.class);
                                 intent.putExtra("note", bean);
                                 context.startActivity(intent);
                             }

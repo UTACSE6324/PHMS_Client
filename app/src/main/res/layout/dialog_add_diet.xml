@@ -57,20 +57,11 @@
             app:met_floatingLabelText="Food quantity" />
     </LinearLayout>
 
-    <TextView
-        android:id="@+id/tv_unit"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/li_quantity"
-        android:layout_marginLeft="56dp"
-        android:textColor="@color/colorTextSecond"
-        android:textSize="16sp" />
-
     <LinearLayout
         android:id="@+id/li_calorie"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/tv_unit"
+        android:layout_below="@id/li_quantity"
         android:orientation="horizontal"
         android:padding="16dp">
 
@@ -92,8 +83,17 @@
             app:met_floatingLabelText="Calorie" />
     </LinearLayout>
 
-    <LinearLayout
+    <TextView
+        android:id="@+id/tv_unit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_below="@id/li_calorie"
+        android:layout_marginLeft="56dp"
+        android:textColor="@color/colorTextSecond"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_below="@id/tv_unit"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -113,15 +113,15 @@
             android:background="?android:attr/selectableItemBackgroundBorderless"
             android:textSize="18sp" />
 
-        <TextView
+        <com.romainpiel.shimmer.ShimmerTextView
             android:id="@+id/btn_submit"
+            android:text="Submit"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
-            android:text="Submit"
             android:textColor="@color/colorPrimary"
             android:background="?android:attr/selectableItemBackgroundBorderless"
-            android:textSize="18sp" />
+            android:textSize="18sp"/>
     </LinearLayout>
 
     <com.mypopsy.widget.FloatingSearchView

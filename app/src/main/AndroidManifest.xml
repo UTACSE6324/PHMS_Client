@@ -74,6 +74,14 @@
             android:screenOrientation="portrait" />
 
         <activity
+            android:name=".NoteActivity"
+            android:label="PHMS"
+            android:launchMode="singleInstance"
+            android:windowSoftInputMode="adjustResize|stateHidden"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
             android:name=".ArticleActivity"
             android:label="PHMS"
             android:launchMode="singleInstance"
@@ -83,6 +91,14 @@
 
         <activity
             android:name=".NoticeActivity"
+            android:label="PHMS"
+            android:launchMode="singleInstance"
+            android:windowSoftInputMode="adjustResize|stateHidden"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".SearchActivity"
             android:label="PHMS"
             android:launchMode="singleInstance"
             android:windowSoftInputMode="adjustResize|stateHidden"

@@ -56,7 +56,7 @@ public class ArticleFragment extends Fragment{
 
                     adapter.setList(list);
                 }catch(Exception e){
-                    Toast.makeText(getContext(), "Connect fail, try later.", Toast.LENGTH_SHORT).show();
+                    initData();
                 }
             }
 
